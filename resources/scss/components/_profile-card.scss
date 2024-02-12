@@ -1,0 +1,25 @@
+/* -----------------------------------------
+* PROFILE CARD
+-------------------------------------------*/
+
+.profile-card {
+    &-banner {
+        height: 150px;
+
+        background: url('/img/profile-banner.png');
+        background-size: cover;
+        overflow: hidden;
+    }
+
+    &-photo {
+        position: relative;
+        top: -50px;
+        left: 16px;
+        width: 100px;
+        height: 100px;
+
+        border-radius: 50%;
+        box-shadow: 0 0 8px rgba($color: #000, $alpha: 0.3);
+        object-fit: cover;
+    }
+}

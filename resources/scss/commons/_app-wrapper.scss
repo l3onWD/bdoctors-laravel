@@ -1,0 +1,10 @@
+/* -----------------------------------------
+* APP WRAPPER
+-------------------------------------------*/
+@use '../vars' as *;
+
+.app-wrapper {
+    height: calc(100vh - $header-height);
+
+    display: flex;
+}

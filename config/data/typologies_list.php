@@ -1,0 +1,23 @@
+<?php
+return [
+    ["name" => "Cardiologia", "icon" => "fas fa-heart"],
+    ["name" => "Chirurgia cardiaca", "icon" => "fas fa-heartbeat"],
+    ["name" => "Chirurgia generale", "icon" => "fas fa-scissors"],
+    ["name" => "Chirurgia ortopedica", "icon" => "fas fa-bone"],
+    ["name" => "Chirurgia plastica", "icon" => "fas fa-syringe"],
+    ["name" => "Chirurgia vascolare", "icon" => "fas fa-ambulance"],
+    ["name" => "Dermatologia", "icon" => "fas fa-spa"],
+    ["name" => "Ematologia", "icon" => "fas fa-tint"],
+    ["name" => "Endocrinologia", "icon" => "fas fa-flask"],
+    ["name" => "Gastroenterologia", "icon" => "fas fa-bacteria"],
+    ["name" => "Medicina di emergenza", "icon" => "fas fa-first-aid"],
+    ["name" => "Medicina interna", "icon" => "fas fa-hospital"],
+    ["name" => "Neurologia", "icon" => "fas fa-brain"],
+    ["name" => "Oftalmologia", "icon" => "fas fa-eye"],
+    ["name" => "Oncologia", "icon" => "fas fa-disease"],
+    ["name" => "Ortopedia", "icon" => "fas fa-wheelchair"],
+    ["name" => "Otorinolaringoiatria", "icon" => "fas fa-ear-deaf"],
+    ["name" => "Pediatria", "icon" => "fas fa-child"],
+    ["name" => "Psichiatria", "icon" => "fas fa-user-md"],
+    ["name" => "Radiologia", "icon" => "fas fa-x-ray"],
+];

@@ -1,0 +1,28 @@
+/* -----------------------------------------
+* MAIN STYLE
+-------------------------------------------*/
+
+//*** BOOTSTRAP ***//
+@use '~bootstrap/scss/bootstrap';
+
+
+//*** BASE ***//
+@use '~resources/scss/base/generics';
+
+
+//*** COMMONS ***//
+@use '~resources/scss/commons/app-header';
+@use '~resources/scss/commons/app-main';
+@use '~resources/scss/commons/app-sidebar';
+@use '~resources/scss/commons/app-wrapper';
+
+
+//*** COMPONENTS ***//
+@use '~resources/scss/components/profile-card';
+
+
+
+// Style Loader
+body {
+    display: block;
+}
